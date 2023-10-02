@@ -19,4 +19,4 @@ def primes(number_of_primes):
             list.append(num)
         num += 1
 
-    return prime_list
+    return list
